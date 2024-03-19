@@ -1,0 +1,35 @@
+Computers
+
+//inherit
+types of computers 
+laptop
+desktop
+
+
+example 
+hp 
+displayBrand
+displaySpecs
+
+
+output
+
+Computers- title
+
+Types of Computers
+
+Laptop setType getType
+it is a hsda - setDescription
+
+
+functions:
+displayBrand
+displaySpecs
+
+
+classes:
+laptopclass
+displayBrand
+displayspecs
+
+
